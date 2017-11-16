@@ -1,3 +1,8 @@
+RentalMovieApp should have the following implementations:
+
+-authentification for clients/admins to use the app -an input form for the client -a list of available movies which you can rate and rent them -a chart defining the most rated movies -offline support - persist data on the local storage -online support - synchronize date to/from a remote location -each movie cover should have an animation -send clients an email whenever they rented a movie and show the store on google maps.
+---------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
